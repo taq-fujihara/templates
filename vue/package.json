@@ -2,6 +2,9 @@
   "name": "vue",
   "version": "0.0.0",
   "private": true,
+  "engines": {
+    "node": ">=20.0.0"
+  },
   "scripts": {
     "prepare": "husky install",
     "dev": "vite",
